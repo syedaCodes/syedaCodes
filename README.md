@@ -1,5 +1,5 @@
 <h1 align="left">Hi! I'm Neha 👋</h1>
-<h3 align="left">I am a passionate frontend engineer!🙂</h3>
+<h3 align="left">I am a passionate frontend engineer based in Hyderabad, India 🙂</h3>
 
 - 🔭 I'm currently working on Personal Projects
 - 🌱 Growing as a React Developer and Learning about Web3
