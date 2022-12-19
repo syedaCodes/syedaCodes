@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Neha 👋</h1>
 <h3 align="center">I am a passionate frontend engineer!🙂</h3>
 
-- 🔭 I'm currently on Remote Events
+- 🔭 I'm currently working on Personal Projects & working for a FinTech Company
 - 🌱 Growing as a React Developer and Learning about Web3
 
 <h4 align="center">Connect with me:</h4>
