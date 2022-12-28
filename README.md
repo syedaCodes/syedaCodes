@@ -6,7 +6,7 @@
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
-<a href="https://codepen.io/syeda_neha" target="blank"><img align="center" src="https://github.com/syedaCodes/nehacodes/blob/master/SVG/codepen.svg)" alt="syeda_neha" height="30" width="40" /></a>
+<a href="https://codepen.io/syeda_neha" target="blank"><img align="center" src="https://github.com/syedaCodes/nehacodes/blob/master/SVG/codepen.svg" alt="syeda_neha" height="30" width="40" /></a>
 <a href="https://twitter.com/neha_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="neha_codes" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/syeda-neha-7b8b4881" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syeda-neha-7b8b4881" height="30" width="40" /></a>
 <a href="https://instagram.com/neha.codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="neha.codes" height="30" width="40" /></a>
