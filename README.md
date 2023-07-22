@@ -4,4 +4,4 @@
 
 <p>As an enthusiastic individual in the tech world, I am always excited to connect with like-minded professionals and contribute to meaningful projects. Feel free to reach out to me through: <a href="mailto:syedaa.codes@gmail.com">email@syeda</a> or connect with me on: <a href="https://in.linkedin.com/in/syeda-neha-7b8b4881">LinkedIn</a></p>
 
-To learn more checkout my <a href="https://syedacodes.github.io/nehacodes/">Portfolio</a>
+<a href="https://syedacodes.github.io/nehacodes/">Portfolio</a>
